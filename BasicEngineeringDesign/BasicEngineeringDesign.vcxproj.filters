@@ -13,25 +13,19 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
-    <Filter Include="소스 파일\실습1">
-      <UniqueIdentifier>{5221a452-43af-4d50-ba91-96e980728cb7}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="소스 파일\실습2">
-      <UniqueIdentifier>{2e8bd5a1-c746-4fcd-9ad0-44a40787ec80}</UniqueIdentifier>
-    </Filter>
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="p1_1.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
     <ClCompile Include="p1_2.cpp">
-      <Filter>소스 파일\실습1</Filter>
+      <Filter>소스 파일</Filter>
     </ClCompile>
     <ClCompile Include="p1_3.cpp">
-      <Filter>소스 파일\실습1</Filter>
-    </ClCompile>
-    <ClCompile Include="p1_1.cpp">
-      <Filter>소스 파일\실습1</Filter>
+      <Filter>소스 파일</Filter>
     </ClCompile>
     <ClCompile Include="p1_4.cpp">
-      <Filter>소스 파일\실습1</Filter>
+      <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
